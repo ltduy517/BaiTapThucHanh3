@@ -12,3 +12,4 @@ C:\Users\TRUNG DUY\BaiTapThucHanh3\QuanLyThuVien\obj\Debug\net10.0\refint\QuanLy
 C:\Users\TRUNG DUY\BaiTapThucHanh3\QuanLyThuVien\obj\Debug\net10.0\QuanLyThuVien.pdb
 C:\Users\TRUNG DUY\BaiTapThucHanh3\QuanLyThuVien\obj\Debug\net10.0\QuanLyThuVien.genruntimeconfig.cache
 C:\Users\TRUNG DUY\BaiTapThucHanh3\QuanLyThuVien\obj\Debug\net10.0\ref\QuanLyThuVien.dll
+C:\Users\TRUNG DUY\BaiTapThucHanh3\QuanLyThuVien\obj\Debug\net10.0\QuanLyThuVien.sourcelink.json
